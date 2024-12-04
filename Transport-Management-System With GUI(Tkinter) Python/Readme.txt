@@ -1,4 +1,4 @@
-# Transport-Management-System
+# Transport-Management-System using GUI(Tkinter) with Python
 Python project demonstrating the how to utilize sqlite database in python
 
 Requirements:
